@@ -12,7 +12,6 @@
  * Si no ha sido así ingrese a <a href = "http://www.gnu.org/licenses/"> GNU org </a>
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
 <!DOCTYPE html>
 <html>
 <head>
